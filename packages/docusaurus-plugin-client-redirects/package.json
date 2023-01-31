@@ -23,7 +23,7 @@
     "@docusaurus/utils": "2.0.0-beta.21",
     "@docusaurus/utils-common": "2.0.0-beta.21",
     "@docusaurus/utils-validation": "2.0.0-beta.21",
-    "eta": "^1.12.3",
+    "eta": "^2.0.0",
     "fs-extra": "^10.1.0",
     "lodash": "^4.17.21",
     "tslib": "^2.4.0"
